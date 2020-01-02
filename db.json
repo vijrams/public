@@ -21,7 +21,7 @@
     "invoiceNo":"Inv-125",
     "invoiceDate": "1/16/2019",
     "invoiceAmount":81245.13,
-    "status":"Pending",
+    "status":"Complete",
     "client":"JP Morgan Chase"
   },
   {
