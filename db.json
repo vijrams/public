@@ -4,7 +4,7 @@
     "referenceId":"P00025809397",
     "invoiceNo":"Inv12345",
     "invoiceDate": "12/12/2019",
-    "invoiceAmount":9845.13,
+    "invoiceAmount":"9845.13",
     "client":"Walmart Inc."
   },
   {
