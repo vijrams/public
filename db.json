@@ -5,6 +5,7 @@
     "invoiceNo":"Inv12345",
     "invoiceDate": "12/12/2019",
     "invoiceAmount":9845.13,
+    "status":"Pending",
     "client":"Walmart Inc."
   },
   {
@@ -12,6 +13,7 @@
     "invoiceNo":"Inv2123",
     "invoiceDate": "12/12/2019",
     "invoiceAmount":1431.13,
+    "status":"Pending",
     "client":"Walmart Inc."
   },
   {
@@ -19,6 +21,7 @@
     "invoiceNo":"Inv-125",
     "invoiceDate": "1/16/2019",
     "invoiceAmount":81245.13,
+    "status":"Pending",
     "client":"JP Morgan Chase"
   },
   {
@@ -26,6 +29,7 @@
     "invoiceNo":"12345",
     "invoiceDate": "12/12/2019",
     "invoiceAmount":9845.13,
+    "status":"Pending",
     "client":"Orix Corporation"
   },
   {
@@ -33,6 +37,7 @@
     "invoiceNo":"Inoice-45",
     "invoiceDate": "12/12/2019",
     "invoiceAmount":9845.13,
+    "status":"Pending",
     "client":"Walmart Inc."
   },
   {
@@ -40,6 +45,7 @@
     "invoiceNo":"New2345",
     "invoiceDate": "12/12/2019",
     "invoiceAmount":9845.13,
+    "status":"Pending",
     "client":"Walmart Inc."
   },
   {
@@ -47,6 +53,7 @@
     "invoiceNo":"22222",
     "invoiceDate": "12/12/2019",
     "invoiceAmount":9845.13,
+    "status":"Pending",
     "client":"Walmart Inc."
   }
 ],
